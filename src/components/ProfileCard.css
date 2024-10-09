@@ -1,0 +1,27 @@
+.profile-card {
+    background-color: #FFEFD5;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(129, 15, 110, 0.959);
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .profile-name {
+    font-size: 24px;
+    color: #742828;
+    margin-bottom: 10px;
+  }
+  
+  .profile-name span {
+    display: block; 
+    font-size: 20px;
+    color: #742828;
+  }
+  .profile-description {
+    font-size: 16px;
+    color: #c50606;
+    line-height: 1.5;
+  }
+  
